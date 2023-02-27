@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Nationality",
+      "value" : "Indian"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Black"
+    } ],
+    "description" : "Sid's Photo",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmf55nXABn5BGFfY1Yu3nSfU4oqbzkox9aVMmWR23CVYHk",
+    "name" : "Sid"
+}
